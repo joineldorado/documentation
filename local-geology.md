@@ -2,7 +2,7 @@
 
 Bagadó, a municipality in the Chocó department of Colombia, is renowned for its abundant natural resources, especially gold. Nestled within the dense rainforests of the Atrato River basin, Bagadó has a long history of mining activity driven by its geological wealth. This report delves into the geological framework of Bagadó, emphasizing its gold deposits, historical and current mining practices, and associated environmental challenges.
 
-## Geological Report on the Farallones Batholith
+### Geological Report on the Farallones Batholith
 
 The Farallones Batholith, located in western Colombia, is a prominent geological feature of the Andean region. This massive intrusive body, primarily composed of granitoid rocks, has significant implications for the geological history, tectonic evolution, and mineral resources of the region. This report explores the geology, formation, mineralization, and significance of the Farallones Batholith.
 
