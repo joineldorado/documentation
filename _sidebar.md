@@ -1,2 +1,2 @@
-- [Intro](intro)
-- [Relationship Between Primary and Secondary Gold](primary-secondary)
+- [Intro](intro.md)
+- [Relationship Between Primary and Secondary Gold](primary-secondary.md)
