@@ -1,2 +1,2 @@
-- [Read Me](README)
-- [Example Second Page](second-page)
+- [Intro](intro)
+- [Relationship Between Primary and Secondary Gold](primary-secondary)
