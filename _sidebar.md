@@ -1,5 +1,5 @@
 - [Intro](intro.md)
-- [Relationship Between Primary and Secondary Gold](primary-secondary.md)
+- [Primary and Secondary Gold](primary-secondary.md)
 - [Regional Geology](regional-geology.md)
 - [Local Geology](local-geology.md)
 - [Gold and Mining Potential](potential.md)
