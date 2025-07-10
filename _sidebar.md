@@ -1,4 +1,4 @@
-- [Intro](intro.md)
+- [Intro](readme.md)
 - [Primary and Secondary Gold](primary-secondary.md)
 - [Regional Geology](regional-geology.md)
 - [Local Geology](local-geology.md)
