@@ -1,6 +1,6 @@
 # The Quest for El Dorado: A Legacy of Colombian Gold
 
-![The Quest for El Dorado.jpg](attachment:b1c033c7-3047-4e1b-8d11-e589f3332fd5:The_Quest_for_El_Dorado.jpg)
+![Preview Image](https://ucarecdn.com/233f8452-935d-45a3-a46c-f0a1494a5479/-/preview/999x536/)
 
 Deep in the heart of Colombia lies a tale that has captivated explorers, adventurers, and fortune seekers for centuries: the legend of El Dorado. This story, born in the misty mountains and verdant valleys of ancient Colombia, speaks not just of gold, but of the profound connection between the land and its treasures.
 
