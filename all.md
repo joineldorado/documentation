@@ -303,7 +303,7 @@ The project also has the active support of the Organization, a local actor prese
 
 In Colombia, mineral resources in the subsoil are owned by the State. To operate legally, a mining title and an environmental license are required. This joint project, supported by indigenous communities and the Organization, aims to complete all geological, environmental, and social studies to the highest international standards. This will allow the submission of a robust application to the State for obtaining the necessary permits.
 
-# Tokenomics
+# Tokenomics 💰
 
 **Total supply**: 20,000,00 EDG
 
@@ -326,4 +326,4 @@ In Colombia, mineral resources in the subsoil are owned by the State. To operate
 | Private Sale 3 | 1,750,000 | 0.85 USDT (**15% discount**) | 8.75% | 750,000 USDT |
 | **Total** | **5,000,000** | — | **25%** | **3,550,000 USDT** |
 
-🔗 [**Access the presale page here**](https://www.pinksale.finance/launchpad/polygon/0xEe3a22EEc9f18Aef6732f0c4564024EEE865c5F9)
+🔗 [**Presale**](https://www.pinksale.finance/launchpad/polygon/0xEe3a22EEc9f18Aef6732f0c4564024EEE865c5F9)
