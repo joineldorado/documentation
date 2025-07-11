@@ -97,4 +97,3 @@ The extensive mining activities in Chocó have resulted in significant environme
 ### **Wrap-up**
 
 The Chocó department’s geological context, defined by its tectonic activity, diverse lithologies, and intense weathering processes, has created a rich environment for gold mineralization. While the region holds immense economic potential, addressing the environmental and social challenges associated with mining is critical. Comprehensive geological studies, coupled with sustainable and responsible mining practices, will be essential for optimizing the benefits of Chocó’s gold resources while preserving its unique ecosystems and cultural heritage.
-

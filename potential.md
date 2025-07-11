@@ -1,4 +1,4 @@
-# **Gold and Mining Potential of the Farallones Batholith**
+# Gold and Mining Potential of the Farallones Batholith
 
 1. **Favorable Geology:**
     - This batholith contains geological structures such as veins, fractures, and hydrothermal alteration zones, which are key to gold mineralization.
@@ -13,13 +13,10 @@
     - Geochemical gold anomalies in the region have been reported in initial exploration efforts.
     - The presence of sulfides such as pyrite, arsenopyrite, and chalcopyrite, associated with hydrothermal alterations, indicates favorable mineralized systems.
 
-<aside>
-
-### **Does the Farallones Batholith Have Potential for Primary Gold Deposits?**
+### Does the Farallones Batholith Have Potential for Primary Gold Deposits?
 
 Yes, the Farallones Batholith has potential for primary gold deposits, based on its geological and tectonic context. The following factors support this:
 
 - **Geological Context**: Batholiths are often sources of hydrothermal fluids that precipitate metallic minerals, including gold.
 - **Association with Hydrothermal Alteration**: Evidence of hydrothermal alterations and favorable structures in the region are key indicators of primary gold deposits.
 - **Underexploration**: Many areas in Bagadó and Chocó remain underexplored for primary gold deposits due to the historical focus on alluvial mining.
-</aside>

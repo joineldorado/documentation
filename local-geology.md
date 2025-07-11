@@ -6,14 +6,9 @@ Bagadó, a municipality in the Chocó department of Colombia, is renowned for it
 
 The Farallones Batholith, located in western Colombia, is a prominent geological feature of the Andean region. This massive intrusive body, primarily composed of granitoid rocks, has significant implications for the geological history, tectonic evolution, and mineral resources of the region. This report explores the geology, formation, mineralization, and significance of the Farallones Batholith.
 
-<aside>
-
-A **batholith** is a large mass of intrusive igneous rock (typically granite) that forms deep within the Earth’s crust. It is created when magma cools and solidifies underground and is later exposed by erosion. Batholiths often cover hundreds to thousands of square kilometers and are commonly associated with mountain ranges. Batholiths are heat sources for hydrothermal fluids, which leach and concentrate gold in surrounding rocks. Their emplacement creates fractures and pathways for gold deposition, often making them key to gold mineralization.
-
-</aside>
+*A **batholith** is a large mass of intrusive igneous rock (typically granite) that forms deep within the Earth’s crust. It is created when magma cools and solidifies underground and is later exposed by erosion. Batholiths often cover hundreds to thousands of square kilometers and are commonly associated with mountain ranges. Batholiths are heat sources for hydrothermal fluids, which leach and concentrate gold in surrounding rocks. Their emplacement creates fractures and pathways for gold deposition, often making them key to gold mineralization.*
 
 ![Preview Image](https://ucarecdn.com/e50655da-f66a-4eb4-8b07-a3971af9f883/-/preview/1000x474/)
-
 
 ### Geological Setting
 

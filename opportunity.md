@@ -10,8 +10,6 @@ The project area is within an indigenous reserve, activating the legal framework
 
 In this context, the indigenous communities have decided to participate as partners in the project. This not only ensures compliance with their rights but also guarantees that the project’s development respects their traditions and aspirations. This associative model is innovative and sustainable, promoting the economic development of the communities while respecting their values and culture.
 
-<aside>
-
 Ancestral rights in Colombia are deeply tied to the recognition and protection of the rights of Indigenous peoples, Afro-descendant communities, and Raizal communities. This legal framework is grounded in the 1991 Political Constitution, which establishes a multicultural and multi-ethnic model aimed at protecting the customs, territories, and ways of life of these communities. The key legal context is as follows:
 
 **1. Constitutional Basis:**
@@ -26,7 +24,6 @@ Ancestral rights in Colombia are deeply tied to the recognition and protection o
 - **Law 21 of 1991:** Ratifies the International Labour Organization (ILO) Convention 169 on Indigenous and Tribal Peoples, which establishes fundamental rights such as prior consultation and respect for culture and traditions.
 - **Law 70 of 1993:** Grants territorial rights to Afro-descendant communities and regulates the use of natural resources in their collective territories.
 - **Decree 1953 of 2014:** Creates a special regime for the exercise of Indigenous self-government, enabling their authorities to carry out administrative and judicial functions.
-</aside>
 
 ### Security and Collaboration with the Organization
 
