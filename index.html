@@ -28,7 +28,18 @@
         background-color: transparent;
         width: auto;
         padding: 30px 20px 30px 20px;
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: auto;
+        height: 5vh;
     }
+    @media screen and (max-width: 768px) {
+    body.close .sidebar-toggle {
+        display: none !important;
+    }
+}  
+
     }
   </style>
   
