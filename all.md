@@ -305,7 +305,7 @@ In Colombia, mineral resources in the subsoil are owned by the State. To operate
 
 # Tokenomics 💰
 
-**Total supply**: 20,000,00 EDG
+**Total supply**: 20,000,000 EDG
 
 **Target ICO price**: 1.00 USDT
 
