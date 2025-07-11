@@ -1,5 +1,4 @@
-
-![logo](https://ucarecdn.com/3636fea4-28b4-43de-a631-59b75e5a37e0/-/preview/1000x1000/)
+![logo](https://ucarecdn.com/b06a197a-618b-4459-97de-7c3775671474/-/preview/154x168/)
 
 > The Quest for El Dorado.
 
@@ -8,3 +7,5 @@
 - Significant Growth Potential
 
 [Get Started](#home)
+
+![color](#22292b)
